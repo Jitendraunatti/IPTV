@@ -1,0 +1,65 @@
+[{ 
+ "logo": "https://telegra.ph/file/5264f27d240de9897c3d9.jpg",
+ "name": "STAR PLUS", 
+ "link": "https://livetv.hotstar.com/mp2/gec-india-1540005587/d70f7444749a46988107a08c1bea5c54/index.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658340575~acl=%2f*~id=e0f6fcfb0798fd108c8d24a45d2cda9e~data=hdntl~hmac=188346994688854e2bb5024e77c79c40a22344140945e8a7eec2f4c1b9c46a55", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKeYAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGCd81DjI6Z_vLXYq-em9IwruBI6S9CxXZMQMiGDqLy7DQLZvolxREPatvi-nAd4t0KvUzDzn60Vlb40h-I9XYdpIrHH0maYaS971xe7dkUuw38VwCKsj9V186FYYwG8EpyicSU4-gvD69_jIInJTqYoULlTCg" 
+}, { 
+ "logo": "https://telegra.ph/file/28d69c699d99f04b0266a.jpg",
+ "name": "STAR BHARAT", 
+ "link": "https://livetv.hotstar.com/mp1/gec-india-1540005590/ed7dde701895465191f34b11a64f7a0c/index.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658340587~acl=%2f*~id=55ebab05f7874c7ee7a2d342c7f7b7a5~data=hdntl~hmac=fad7c047ba2d6416f48381ccc0e15c08b8c5f5718efe84f73addbde639af606e", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKdsAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGAm1fSHLW-a7hr6YYjzGFdlT-gHcf9mfgC82P8eldtJqE0dpJoGDf1FSfLsuxowwJDH-aeNvAHmG5KkHyvoDXvmQNnGdp6ymwO7snmAkrv5UFhvXoFsns62-fOFg5tEaSyQsrJConkO5QBKrsfkSD1TC2aQ5Q" 
+}, { 
+ "logo": "https://telegra.ph/file/c0c8678fef3ef6ebf3ef9.jpg",
+ "name": "STAR UTSAV", 
+ "link": "https://livetv.hotstar.com/mp1/gec-india-1540005605/7ec53f14f0594e309eb692104742e4a8/index.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658340597~acl=%2f*~id=a9c6c172e4bb702b6166176747db3420~data=hdntl~hmac=b0c3610d83d627d0bba3e287d703235034baf0cc979779c692bde9e419a60b7c", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKaQAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGBTsN2PXNdA_xh4O74QGtDokRusgqbC5n5JSFNkAlxhizwbvcfJF73q9FbKqDOYuuYaURlbcp3lVu_ZwT28vIh7t-pcC9dLNdjpVy-nkkmuYXSWrkjl5hgktMid7sWAvRlXdrrJk5ISPVZNPAymawxSDCsoyw" 
+}, { 
+ "logo": "https://telegra.ph/file/05bc3b58b24aa99e911fa.jpg",
+ "name": "STAR SPORTS 1 HINDI", 
+ "link": "https://sshindidash-i.akamaihd.net/dash/live/2002466/sshindiwv-jio/master.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658340833~acl=*sshindi*~id=54e4a5832c942fd024624eb58421b0dc~data=hdntl~hmac=c80fca8961986d1737db425c0c4f0ecbaa7b4b85f2422be0209ac5c47db68f4b", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKfYAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGCzP7zSl3fe7qAKiUrmB_-Je35aKbXp9sm-IgX-M2zEKBxPhIjOAXKXa3ZBXoLdsUCFPUFGvg5Ctxo-RycKfCbv9xtMw2MqyeO-6OTw6XcTez_BZ6uMj2qRJJeYqmMhTK0SUggz6p2d2d5D_FL-qKs8dOcxkg" 
+}, { 
+ "logo": "https://telegra.ph/file/3baeda8c2dfa87e180597.jpg",
+ "name": "STAR SPORTS 1", 
+ "link": "https://sshd1livetvdash-i.akamaihd.net/dash/live/2002464/sshd1livetvwv-jio/master.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658340842~acl=*sshd1livetv*~id=9c15affe31292d66226f9ceae7622b3f~data=hdntl~hmac=7755496cbbfeeef3af6f3955e54f2272c0fdcc758952792b66b806926758817d", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKewAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGD3Aenw90hgHsCg6Yb-KvOeOENYUzK_2pbU1uJplFiECC3twl0DQzulsWpF12-ErE4DNIRVpjJRWSqp6UpEmwadLJE8ZHl5IG9GnVOnALdH7-wOvb_QIpLfTKVLpXGsYVKrqiDGjIeUtlrrq-9AdZiESFuArw" 
+}, { 
+ "logo": "https://telegra.ph/file/c1bf17d5926b35a8f4dde.jpg",
+ "name": "STAR SPORTS 2", 
+ "link": "https://sshd2livetvdash-i.akamaihd.net/dash/live/2002465/sshd2livetvwv-jio/master.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658340849~acl=*sshd2livetv*~id=630d8e331a8ece8d2b4196691853a639~data=hdntl~hmac=1876612540b3b44af07fd07cf8c637495574933b49130cfcfba95b9ea136db69", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKZ0AJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGDjrhYLfXEKgknPl4rdWwtZknIuFYLncvqcN34lv7QfUGlmJzh8XcWklUgMq58VMYr-T-T6BvymcJgP-nhrsJOEQHAdZDOTlyb-gg5nbaifB3YcPq2pQdUFBNlOJwxbMgCGoEELNeewZ1fxceaiAHfCnB1_cQ" 
+}, { 
+ "logo": "https://telegra.ph/file/6967a446615e445156a78.jpg",
+ "name": "STAR SPORTS SELECT 1", 
+ "link": "https://ssselecthd1dash-i.akamaihd.net/dash/live/2002470/ssselecthd1wv-jio/master.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658372931~acl=*ssselecthd1*~id=20ffd6a533afcf8a9859730e8ed45210~data=hdntl~hmac=cf10b320115711155c38826d52ee18c8346313fbcef5eaed682464728f8ffcb3", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKecAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGBBg4ehXWJowe-KisPNNzw8HR9ofqb_nA6aPzPnQV-LQ5yGE00zHfepWYu5In_VU1lwlL6GUuYgYKdF--urVW7nNzLykxrikqhP_-7T2Hctf5EsCCUcoVh3F23HIzNRLbjkCUqj8_y5OJ3pNX1Zz3ITnD4Irw" 
+}, { 
+ "logo": "https://telegra.ph/file/c74398a42601d1db0d73a.jpg",
+ "name": "STAR SPORTS SELECT 2", 
+ "link": "https://ssselecthd2dash-i.akamaihd.net/dash/live/2002471/ssselecthd2wv-jio/master.mpd", 
+ "userAgent": "Hotstar;in.startv.hotstar.dplus/12.4.2.1156 (Android/11)-M", 
+ "cookie": "hdntl=exp=1658372939~acl=%2f*~data=hdntl~hmac=47d6c701b0244fdb162c4b14f9a5580dfd8f5b63c1db3a5cce69ced8b859a5b0", 
+ "drmScheme": "widevine", 
+ "drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAAABNlKdQAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAGBdvAgAVw0p5wc9e4B0iLWOuLr6uQROmMDBR4ToeE5WFh5knQbwn28tAyBHTuaDx3ZCwUlW_Oq1p1jNiu9fidHBThNpBnLskll4AtgAQTCzhGcMSexOE5pccgWbL35QNkOSGjFnRlYaIm9uPws17ZneTUNP0w" 
+}]
